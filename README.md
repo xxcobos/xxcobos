@@ -13,9 +13,9 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Lugar de residencia: Guayaquil 😄
 * Sitio web: https://xxcobos.github.io/xxcobos/  😄
 ## Proyectos
-* City Builder (game)
-* Proyección de contenido que tiene una dirección de memoria usando nodos
-* Sistema de aceptacion de solicitudes
+* City Builder (game).
+* Proyección de contenido que tiene una dirección de memoria usando nodos.
+* Sistema de aceptacion de solicitudes.
 * Aplicativo para optimizar la salida de equipos con registros de seguridad. 
 ## Intereses
 * Composición musical, fitness, master chef, escribir y programador visionario 🌱 
