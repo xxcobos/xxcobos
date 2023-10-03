@@ -11,26 +11,11 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Nombre: Xavier Cobos.
 * Ocupación: Estudiante y camellador⚡
 * Lugar de residencia: Guayaquil 😄
-* Sitio web: [Tu sitio web]
+* Sitio web: https://xxcobos.github.io/xxcobos/  😄
 ## Proyectos
-* [Lista de tus proyectos]
+* City Builder (game)
+* Proyección de contenido que tiene una dirección de memoria usando nodos
+* Sistema de aceptacion de solicitudes
+* Aplicativo para optimizar la salida de equipos con registros de seguridad. 
 ## Intereses
-* Compositor musical, fitness, master chef y programador 🌱 
-
-
-### Hi there 👋
-
-<!--
-**xxcobos/xxcobos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Composición musical, fitness, master chef, escribir y programador visionario 🌱 
