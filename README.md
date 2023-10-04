@@ -9,13 +9,12 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Xavier Cobos.
-* Ocupación: Estudiante y camellador⚡
+* Ocupación: Estudiante y trabajo de medio tiempo⚡
 * Lugar de residencia: Guayaquil 😄
 * Sitio web: https://xxcobos.github.io/xxcobos/  😄
 ## Proyectos
-* City Builder (game).
+* City Builder (BETA).
 * Proyección de contenido que tiene una dirección de memoria usando nodos.
-* Sistema de aceptacion de solicitudes.
-* Aplicativo para optimizar la salida de equipos con registros de seguridad. 
+
 ## Intereses
-* Composición musical, fitness, master chef, escribir y programador visionario 🌱 
+* Composición musical, fitness, escribir y programador visionario 🌱 
