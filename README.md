@@ -15,6 +15,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Proyectos
 * City Builder (BETA).
 * Proyección de contenido que tiene una dirección de memoria usando nodos.
+* Instalador all in one (working) https://github.com/xxcobos/InstaXProg.git
 
 ## Intereses
 * Composición musical, fitness, escribir y programador visionario 🌱 
