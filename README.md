@@ -18,4 +18,4 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Instalador all in one (working):  [AllInOne](https://github.com/xxcobos/InstaXProg.git) 
 
 ## Intereses
-* Composición musical, fitness, escribir y programador visionario 🌱 
+* Composición musical, fitness, escribir y programador por diversión 🌱 
